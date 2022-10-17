@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavyaAjce
+- 👋 Hi, I’m @NavyaJoe
 - 👀 I’m interested in Programming and New Technology
 - 🌱 I’m currently learning Cloud
 - 📫 How to reach me https://github.com/NavyaAjce/
